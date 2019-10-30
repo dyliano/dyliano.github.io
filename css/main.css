@@ -3,25 +3,25 @@
 }
 
 .bbg2 {
-  background-image: linear-gradient(to left, #00a8a8, #0087a8);
+  background-image: #ffffff);
 }
 
 /* unvisited link */
 a:link.wl {
-  color: yellow;
+  color: purple;
 }
 
 /* visited link */
 a:visited.wl {
-  color: yellow;
+  color: purple;
 }
 
 /* mouse over link */
 a:hover.wl {
-  color: yellow;
+  color: purple;
 }
 
 /* selected link */
 a:active.wl {
-  color: yellow;
+  color: purple;
 }
